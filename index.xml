@@ -2,7 +2,9 @@
 <index version="1.0" commit="" name="Ryotest"/>
     <category name="Track">
         <reapack name="test.lua" type="script">
-            <source>https://github.com/K-Ryoto/reaper_tools/raw/master/test_script/test.lua</source>
+            <version name="1.00" author="amagalma" time="2021-01-02T10:05:42Z">
+                <source>https://github.com/K-Ryoto/reaper_tools/raw/master/test_script/test.lua</source>
+            </version>
         </reapack>
     </category>
 </index>
