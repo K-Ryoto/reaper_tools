@@ -3,7 +3,7 @@
     <category name="Track">
         <reapack name="test.lua" type="script">
             <version name="2021.04.21"
-            <source>https://github.com/K-Ryoto/reaper_tools/raw/main/test_script/test.lua</source>
+            <source>https://github.com/K-Ryoto/reaper_tools/raw/master/test_script/test.lua</source>
         </reapack>
     </category>
 </index>
