@@ -4,8 +4,8 @@
 <index version="1.0" commit=""/>
     <category name="Track">
         <reapack name="test.lua" type="script">
-            <version name="2021.04.21"
+            <version name="2021.04.21" />
             <source>https://github.com/K-Ryoto/reaper_tools/raw/master/test_script/test.lua</source>
         </reapack>
     </category>
-</index>s
+</index>
