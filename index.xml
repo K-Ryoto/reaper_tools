@@ -1,5 +1,5 @@
 <? xml version="1.0"?>
-<index version="1.0" commit=""/>
+<index version="1.0" commit="" name="Ryotest"/>
     <category name="Track">
         <reapack name="test.lua" type="script">
             <source>https://github.com/K-Ryoto/reaper_tools/raw/master/test_script/test.lua</source>
