@@ -7,7 +7,7 @@
             <description>testtest</description>
         </metadata>
         <version name="1.00" author="Ryo" time="2021-01-02T10:05:42Z">
-            <source main="main">https://github.com/K-Ryoto/reaper_tools/raw/master/test_script/test.lua</source>
+            <source main="main">https://github.com/K-Ryoto/reaper_tools/raw/61a671bd1f42f570c9e92f02ed124bfe49c2ec24/test_script/test.lua</source>
         </version>
     </reapack>
     </category>
