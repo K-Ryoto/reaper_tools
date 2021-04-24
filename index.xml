@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1.0" commit="60ba4149cd207fcb043e902f7118d5d79d1803ab" name="Ryotest" />
+<index version="1.0" commit="60ba4149cd207fcb043e902f7118d5d79d1803ab" name="Ryotest">
     <category name="libraries">
     <reapack name="test.lua" type="script" desc="import test">
         <metadata>
