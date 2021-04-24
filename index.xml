@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <index version="1.0" commit="60ba4149cd207fcb043e902f7118d5d79d1803ab" name="Ryotest" />
-    <category name="test">
+    <category name="test_script">
     <reapack name="test.lua" type="script" desc="import test">
         <metadata>
             <description>testtest</description>
