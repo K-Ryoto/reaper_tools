@@ -1,1 +1,2 @@
 --ggjjh
+reaper.GetCursorPosition()

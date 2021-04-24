@@ -1,9 +1,9 @@
-<? xml version="1.0"?>
+<?xml version="1.0"?>
 <index version="1.0" commit="" name="Ryotest"/>
-    <category name="Track">
-        <reapack name="test.lua" type="script">
-            <version name="1.00" author="amagalma" time="2021-01-02T10:05:42Z">
-                <source>https://github.com/K-Ryoto/reaper_tools/raw/master/test_script/test.lua</source>
+    <category name="Test">
+        <reapack name="test.lua" type="script" desc="import test">
+            <version name="1.00" author="Ryo" time="2021-01-02T10:05:42Z">
+                <source main="main">https://github.com/K-Ryoto/reaper_tools/raw/master/test_script/test.lua</source>
             </version>
         </reapack>
     </category>
