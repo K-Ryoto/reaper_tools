@@ -1,8 +1,13 @@
 <?xml version="1.0"?>
-<index version="1.0" commit="" name="Ryotest" />
+<index version="1.0" commit="60ba4149cd207fcb043e902f7118d5d79d1803ab" name="Ryotest" />
+    <category name="test"></Category>
     <reapack name="test.lua" type="script" desc="import test">
+        <metadata>
+            <description>testtest</description>
+        </metadata>
         <version name="1.00" author="Ryo" time="2021-01-02T10:05:42Z">
             <source main="main">https://github.com/K-Ryoto/reaper_tools/raw/master/test_script/test.lua</source>
         </version>
     </reapack>
+    </category>
 </index>
